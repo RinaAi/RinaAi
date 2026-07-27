@@ -12,3 +12,4 @@
 - Изучаю SQL, API и основы Python
 
 **Портфолио:** 
+https://github.com/RinaAi/qa-portfolio-hr-system
