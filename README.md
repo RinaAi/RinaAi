@@ -10,24 +10,26 @@
 - Тест-дизайн: классы эквивалентности, граничные значения, негативные сценарии
 - Составление чек-листов, тест-кейсов и баг-репортов
 - Функциональное, негативное и ролевое тестирование
-- REST API тестирование в Postman
-- Jira, Git, SQL, Linux, Chrome DevTools
-- Python - базовый уровень
+- REST API тестирование в Postman (коллекции, валидация, авторизация, граничные значения, негативные сценарии)
+- SQL: SELECT, JOIN, GROUP BY, HAVING, COUNT(DISTINCT)
+- Jira, Git, Linux, Chrome DevTools
+- Python — базовый уровень
 
 ### QA-подготовка
 
-- **Основы тестирования** - Hexlet, 2026
-- **Ручное тестирование ПО на коммерческом проекте** - QA Compass, 2026
-- **Тестирование ПО: Postman для тестирования API** - Константин Барзаковский, 2026
-- **Поколение Python** - BEEGEEK, 2026
+- **Основы тестирования** — Hexlet, 2026
+- **Ручное тестирование ПО на коммерческом проекте** — QA Compass, 2026
+- **Тестирование ПО: Postman для тестирования API** — Константин Барзаковский, 2026
+- **Поколение Python** — BEEGEEK, 2026
 
 ### Портфолио
 
-**[QA Portfolio - HR System](https://github.com/RinaAi/qa-portfolio-hr-system)**
+**[QA Portfolio — HR System](https://github.com/RinaAi/qa-portfolio-hr-system)**  
+Тестирование модуля «Моя информация» HR-системы: Test Plan, Test Summary, 15 тест-кейсов, 2 дефекта.
 
-Практический проект: тестирование модуля «Моя информация» HR-системы.  
-Test Plan, Test Summary, 15 тест-кейсов, 2 найденных дефекта.
+**[QA Portfolio — API Organization](https://github.com/RinaAi/qa-portfolio-api-organization)**  
+Тестирование REST API метода создания организации: авторизация, валидация, граничные значения, бизнес-логика ИНН/ОГРН, Postman-коллекция.
 
 ### Дополнительно
 
-**Бассейн Школы 21** - Linux, Git, C
+**Бассейн Школы 21** — Linux, Git, C
