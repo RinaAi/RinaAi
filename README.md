@@ -27,8 +27,8 @@
 **[QA Portfolio — HR System](https://github.com/RinaAi/qa-portfolio-hr-system)**  
 Тестирование модуля «Моя информация» HR-системы: Test Plan, Test Summary, 15 тест-кейсов, 2 дефекта.
 
-**[QA Portfolio — API Organization](https://github.com/RinaAi/qa-portfolio-api-organization)**  
-Тестирование REST API метода создания организации: авторизация, валидация, граничные значения, бизнес-логика ИНН/ОГРН, Postman-коллекция.
+**[Тестирование REST API: создание организации (Postman)](https://github.com/RinaAi/qa-portfolio-api-organization)**  
+56 запросов, 9 папок. Позитивные сценарии по всем веткам алгоритма, граничные значения, валидация полей, авторизация. Найдены дефект (500 вместо 401) и расхождение документации с реализацией.
 
 ### Дополнительно
 
