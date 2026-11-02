@@ -13,18 +13,18 @@
 - REST API тестирование в Postman (коллекции, валидация, авторизация, граничные значения, негативные сценарии)
 - SQL: SELECT, JOIN, GROUP BY, HAVING, COUNT(DISTINCT)
 - Jira, Git, Linux, Chrome DevTools
-- Python — базовый уровень
+- Python - базовый уровень
 
 ### QA-подготовка
 
-- **Основы тестирования** — Hexlet, 2026
-- **Ручное тестирование ПО на коммерческом проекте** — QA Compass, 2026
-- **Тестирование ПО: Postman для тестирования API** — Константин Барзаковский, 2026
-- **Поколение Python** — BEEGEEK, 2026
+- **Основы тестирования** - Hexlet, 2026
+- **Ручное тестирование ПО на коммерческом проекте** - QA Compass, 2026
+- **Тестирование ПО: Postman для тестирования API** - Константин Барзаковский, 2026
+- **Поколение Python** - BEEGEEK, 2026
 
 ### Портфолио
 
-**[QA Portfolio — HR System](https://github.com/RinaAi/qa-portfolio-hr-system)**  
+**[QA Portfolio - HR System](https://github.com/RinaAi/qa-portfolio-hr-system)**  
 Тестирование модуля «Моя информация» HR-системы: Test Plan, Test Summary, 15 тест-кейсов, 2 дефекта.
 
 **[Тестирование REST API: создание организации (Postman)](https://github.com/RinaAi/qa-portfolio-api-organization)**  
@@ -32,4 +32,4 @@
 
 ### Дополнительно
 
-**Бассейн Школы 21** — Linux, Git, C
+**Бассейн Школы 21** - Linux, Git, C
