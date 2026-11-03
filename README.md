@@ -24,7 +24,7 @@
 
 **[HR System: тестирование модуля «Моя информация»](https://github.com/RinaAi/qa-portfolio-hr-system)**
 
-Модуль «Моя информация», роль ESS. Test Plan, Test Summary, 14 тест-кейсов, 2 найденных дефекта.
+Модуль «Моя информация», роль ESS. Test Plan, Test Summary, 13 тест-кейсов, 2 найденных дефекта.
 
 **[Тестирование REST API: создание организации](https://github.com/RinaAi/qa-portfolio-api-organization)**
 
